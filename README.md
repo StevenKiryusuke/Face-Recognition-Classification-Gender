@@ -27,3 +27,5 @@ Here's the result of using the VGG16, RESNET 50, and GoogleNET Comparison accura
 
 # 📝 Project Closing
 
+For this project, we use VGGNET, ResNet, and GoogleNet to predict the gender classification based on the face. However, it stills need improvement of Data processing and running time model to measure the model efficiently and accurately. 
+
