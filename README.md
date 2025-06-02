@@ -22,7 +22,7 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
 # 📈 Project Evaluation 
 
-    Here's the result of using the VGG16, RESNET 50, and GoogleNET Comparison accuracy. 
+Here's the result of using the VGG16, RESNET 50, and GoogleNET Comparison accuracy. 
 
 
 # 📝 Project Closing
