@@ -13,10 +13,9 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
 # 🛠 Project Modeling 
 
+Model Comparison 
 
-     Model Comparison 
-
-     ![Model Comparison](Dataset/Model Comparison.png)
+![Model Comparison](Dataset/Model Comparison.png)
 
 
 # 📈 Project Evaluation 
