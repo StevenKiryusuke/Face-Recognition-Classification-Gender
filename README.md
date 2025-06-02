@@ -17,7 +17,7 @@ This project use a Face Classification that requires Male and Female gender. Thi
 
 From this training model, it used the Parameters based on this below:
 
-
+![Hyperparameters](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/6bd10ffbec5a91fc1e6daf05dc0a9285e9cdfea6/Dataset/HyperParameters.png)
 
 
 Model Comparison 
