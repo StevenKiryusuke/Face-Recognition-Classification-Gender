@@ -5,9 +5,9 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
 # 📂 Project Sources
      
-##### Dataset: CelebA
-##### Link Drive: 
-##### Tech Stack: Python, Google Colab, Tensorflow, PyTorch, Numpy, Pandas, Scikit-Learn, OpenCV
+- Dataset: CelebA
+- Link Drive:
+- Tech Stack: Python, Google Colab, Tensorflow, PyTorch, Numpy, Pandas, Scikit-Learn, OpenCV
 
 # 🧪 Project Description 
      
@@ -26,6 +26,7 @@ Here's the result of using the VGG16, RESNET 50, and GoogleNET Comparison accura
 
 ![Model Evaluation](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/587a79cf6967744c5124673822bbd9e0e4dfb994/Dataset/Model%20Evaluation.png)
 
+From this evaluation metric in the table. We can conclude that using GoogleNet will make accurately predict the right gender classification based on data. However, it needs extra time and manage the epochs first so the model will be running quickly and efficiently. 
 
 # 📝 Project Closing
 
