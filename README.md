@@ -24,6 +24,8 @@ Model Comparison
 
 Here's the result of using the VGG16, RESNET 50, and GoogleNET Comparison accuracy. 
 
+![Model Evaluation](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/587a79cf6967744c5124673822bbd9e0e4dfb994/Dataset/Model%20Evaluation.png)
+
 
 # 📝 Project Closing
 
