@@ -16,7 +16,8 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
      Model Comparison 
 
-     ![Screenshot 2025-06-02 175807]
+     ![Screenshot 2025-06-02 175807](https://github.com/user-attachments/assets/74500acd-0cb4-4d74-b865-1a206d9d3015)
+
 
 # 📈 Project Evaluation 
 
