@@ -6,7 +6,7 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 # 📂 Project Sources
      
 - Dataset: CelebA
-- Link Drive:
+- Link Drive: https://drive.google.com/drive/folders/1Y-kRoMckL1pvxT2zFC_VC2yaD_v7Ph3k
 - Tech Stack: Python, Google Colab, Tensorflow, PyTorch, Numpy, Pandas, Scikit-Learn, OpenCV
 
 # 🧪 Project Description 
