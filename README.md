@@ -19,6 +19,7 @@ From this training model, it used the Parameters based on this below:
 
 ![Hyperparameters](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/6bd10ffbec5a91fc1e6daf05dc0a9285e9cdfea6/Dataset/HyperParameters.png)
 
+Then it trained with each of 3 seperate method in each notebook so it divided and we can conclude the model comparison below. 
 
 Model Comparison 
 
