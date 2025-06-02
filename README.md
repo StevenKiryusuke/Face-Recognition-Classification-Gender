@@ -17,7 +17,7 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
 ###### Model Comparison 
 
-[!Dataset/Model Comparison.png](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/03d2ccc1f504e6f29db992dfe13dd168e794567b/Dataset/Model%20Comparison.png)
+     [!Dataset/Model Comparison.png](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/03d2ccc1f504e6f29db992dfe13dd168e794567b/Dataset/Model%20Comparison.png)
 
 
 # 📈 Project Evaluation 
