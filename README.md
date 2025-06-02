@@ -15,6 +15,11 @@ This project use a Face Classification that requires Male and Female gender. Thi
 
 # 🛠 Project Modeling 
 
+From this training model, it used the Parameters based on this below:
+
+
+
+
 Model Comparison 
 
 ![Model Comparison](https://github.com/StevenKiryusuke/Face-Recognition-Classification-Gender/blob/03d2ccc1f504e6f29db992dfe13dd168e794567b/Dataset/Model%20Comparison.png)
