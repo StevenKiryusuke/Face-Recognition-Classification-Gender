@@ -5,9 +5,9 @@ COMPUTER VISION AI INDONESIA BOOTCAMP BATCH 8
 
 # 📂 Project Sources
      
-Dataset: CelebA
-Link Drive: 
-Tech Stack: Python, Google Colab, Tensorflow, PyTorch, Numpy, Pandas, Scikit-Learn, OpenCV
+### Dataset: CelebA
+### Link Drive: 
+### Tech Stack: Python, Google Colab, Tensorflow, PyTorch, Numpy, Pandas, Scikit-Learn, OpenCV
 
 # 🧪 Project Description 
      
@@ -15,7 +15,7 @@ This project use a Face Classification that requires Male and Female gender. Thi
 
 # 🛠 Project Modeling 
 
-Model Comparison 
+### Model Comparison 
 
      ![Model Comparison](Dataset/Model Comparison.png)
 
